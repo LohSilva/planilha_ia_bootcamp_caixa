@@ -38,6 +38,10 @@ O material está organizado nas seguintes pastas:
 
 4. Confira a imagem em `image/` para inspiração visual do projeto.
 
+### 📋 Nota importante
+
+Ao trabalhar com dados financeiros ou sensíveis, tenha cuidado para proteger as informações expostas. Certifique-se de remover ou anonimizar dados confidenciais antes de compartilhá-los para análise ou visualização pública.
+
 ### 📊 Resultados esperados:
 
 Ao concluir o projeto, você terá:
@@ -48,4 +52,4 @@ Ao concluir o projeto, você terá:
 
 - Um dashboard intuitivo que destaca os principais insights.
 
-🚀 Simplifique suas análises financeiras com o poder das tabelas dinâmicas e da IA!# planilha_ia_bootcamp_caixa
+🚀 Simplifique suas análises financeiras com o poder das tabelas dinâmicas e da IA!
