@@ -2,7 +2,7 @@
 
 Este projeto transforma dados financeiros de uma planilha Excel em informações visuais claras, utilizando tabelas dinâmicas e gráficos para criar um dashboard completo. Aqui você encontra tudo o que precisa para entender e reproduzir o trabalho!
 
-### 🗂 Estrutura do Projeto
+### 🗂 Estrutura do projeto:
 
 O material está organizado nas seguintes pastas:
 
@@ -20,7 +20,7 @@ O material está organizado nas seguintes pastas:
 
 - **Dashboard:** Montamos um dashboard claro e intuitivo para visualização dos resultados.
 
-### 📊 Benefícios do Uso de IA
+### 📊 Benefícios do uso de IA:
 
 - **Automatização:** Simplifica a organização e análise dos dados.
 
@@ -28,7 +28,7 @@ O material está organizado nas seguintes pastas:
 
 - **Visualização Melhorada:** Gera gráficos impactantes que ajudam na tomada de decisão.
 
-### 🛠✨ Como Usar
+### 🛠✨ Como usar:
 
 1. Abra a planilha original em `base_dados/`.
 
@@ -38,7 +38,7 @@ O material está organizado nas seguintes pastas:
 
 4. Confira a imagem em `image/` para inspiração visual do projeto.
 
-### 📊 Resultados Esperados
+### 📊 Resultados esperados:
 
 Ao concluir o projeto, você terá:
 
